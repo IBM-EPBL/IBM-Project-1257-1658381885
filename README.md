@@ -28,6 +28,10 @@ To detect diseases that the crop has been affected with and suggest suitable fer
 
 The solution to the problem is Machine learning, which is one of the applications of Artificial Intelligence, is being used to implement the proposed system. Crop recommendation is going to recommend you the best crop you can grow in your land as per the soil nutrition value and along with as per the climate in that region. And recommending the best fertilizer for every particular crop is also a challenging task. 
 
+**Technology Architecture :**
+
+![image](https://user-images.githubusercontent.com/113674474/202077880-e3c00879-a656-4e8f-8804-6ab159a0765d.png)
+
 **Completed Tasks :**
  
  - [x] Brainstorm and Ideation
