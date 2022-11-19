@@ -65,3 +65,7 @@ The solution to the problem is Machine learning, which is one of the application
  - [x] Technology Stack
 
  - [x] Customer Journey Map
+ 
+ - [x] Project Development Phase
+
+ - [x] Final Deliverables
